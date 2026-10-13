@@ -1,0 +1,11 @@
+{
+  "name": "bb-excalidraw",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BackendByte hand-drawn diagrams: spec -> sketchy SVG + editable .excalidraw + PNG",
+  "license": "MIT",
+  "dependencies": {
+    "opentype.js": "1.3.4",
+    "roughjs": "4.6.6"
+  }
+}
