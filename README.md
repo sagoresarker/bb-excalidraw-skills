@@ -10,7 +10,7 @@ A Claude Code skill for BackendByte-style hand-drawn diagrams. You describe a sy
 
 ## Install
 ```bash
-git clone <this repo> && cd bb-excalidraw-skills
+git clone https://github.com/sagoresarker/bb-excalidraw-skills.git && cd bb-excalidraw-skills
 cd bb-excalidraw && npm i && cd ..
 ln -s "$PWD/bb-excalidraw" ~/.claude/skills/bb-excalidraw
 ```
